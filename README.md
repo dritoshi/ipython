@@ -1,4 +1,4 @@
-genelinux
+ipython with scikit-learn on docker
 =======================
 
 Docker image for ipython with scikit-learn
